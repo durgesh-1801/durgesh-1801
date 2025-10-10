@@ -38,7 +38,7 @@ Here are a few technologies I've been working with recently:
 ### 🔗 Connect with Me
 
 <p align="left">
-<a href=" www.linkedin.com/in/durgesh-sharma-422716204 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a> 
+<a href=" https://www.linkedin.com/in/durgesh-sharma-422716204/ " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your LinkedIn Profile" height="30" width="40" /></a> 
 </p>
 <!--
 **durgesh-1801/durgesh-1801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
